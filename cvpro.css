@@ -1,0 +1,99 @@
+.gauche{
+    background-color: rgb(5, 5, 160);
+    width: 500px;
+    border: solid 1px rgb(5, 5, 160) ;
+    border-radius: 20px;
+    height: 1050px;
+    padding: 50px;
+    background-image: linear-gradient(135deg, #2AFADF 100%, #4C83FF 50%);
+}
+.g{
+    margin-top: 200px;
+}
+.contact{
+    font-size: 25px;
+}
+table{
+    width: 450px;
+}
+img{
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    border: solid 10px white;
+    border-radius: 800px;
+}
+.formation{
+    display: inline; 
+}
+.ab{
+    width: 1200px;
+    height: 200px;
+}
+.langues{
+    display: inline;
+    margin-bottom: 100px;
+    font-size: 25px;
+}
+svg{
+    margin-left: 30px;
+}
+.Reseaux-sociaux{
+    display: inline;
+    margin-bottom: 100px;
+    font-size: 25px;
+}
+.Reseaux-sociaux svg{
+    margin-left: 50px;
+}
+.droite{
+    background-color: white;
+    height: 1500px;
+    width: 700px;
+    position: absolute;
+    left: 650px;
+    top:  250px;
+    font-size: 20px;
+    
+}
+.profil{
+    
+    border: 1px solid white;
+    width: 700px;
+    height: 200px;
+}
+.tab{
+    width: 1000px;
+}
+.nom{
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+    font-size: 30px;
+}
+#zkr{
+    
+    font-size: 60px;
+}
+.loisirs{
+    font-size: 25px;
+}
+.loisirs svg{
+    margin-left: 50px;
+}
+.circle{
+    margin-left: 69px;
+}
+.circlee{
+    margin-left: 45px;
+}
+.circleee{
+    margin-left: 30px;
+}
+.circleeee{
+    margin-left: 50px;
+}
+
+
+
+
